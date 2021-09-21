@@ -99,13 +99,13 @@
 
 #define vezes *
 #define DIVIDIDO_POR /
-#define módulo_de %
+#define modulo_de %
 #define mais +
 #define menos -
 #define mais_um ++
 #define menos_um --
 
 #define escreve printf
-#define lê scanf
+#define le scanf
 
 #endif //!__CPORTUGUES__H__
