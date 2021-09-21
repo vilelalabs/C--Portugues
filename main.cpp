@@ -2,7 +2,7 @@
 
 inteiro funcao_principal()
 {
-    inteiro a vira 2;
+    inteiro semsinal a vira 2;
     pontoflutuante b vira 3.14;
 
     para(inteiro i vira 1; i menor_que 11; i mais_um)
@@ -17,7 +17,7 @@ inteiro funcao_principal()
     inteiro x vira 5;
     fazer
     {
-        escreve("A-%d ",x);
+        escreve("A-%d ", x);
         x mais_um;
     }
     enquanto(x menor_que 10);
