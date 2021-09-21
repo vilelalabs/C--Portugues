@@ -7,7 +7,7 @@ Apenas uma brincadeira com as palavras chaves e alguns símbolos e funções do 
 #include "cportugues.h"
 
 inteiro funcao_principal() {
-    inteiro a vira 2;
+    inteiro semsinal a vira 2;
     pontoflutuante b vira 3.14;
 
     para(inteiro i vira 1; i menor_que 11; i mais_um) {
@@ -15,6 +15,10 @@ inteiro funcao_principal() {
         {
             escreve("pi vezes %d = ", i vezes a);
             escreve("%2.2f\n", i vezes b);
+        }
+        senao
+        {
+            escreve("Aqui era o cinco\n");
         }
     }
 
@@ -34,6 +38,7 @@ pi vezes 2 = 3.14
 pi vezes 4 = 6.28
 pi vezes 6 = 9.42
 pi vezes 8 = 12.56
+Aqui era o cinco
 pi vezes 12 = 18.84
 pi vezes 14 = 21.98
 pi vezes 16 = 25.12

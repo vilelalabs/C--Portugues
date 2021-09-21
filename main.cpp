@@ -12,6 +12,9 @@ inteiro funcao_principal() //main
             escreve("pi vezes %d = ", i vezes a);
             escreve("%2.2f\n", i vezes b);
         }
+        senao{
+            escreve("Aqui era o cinco\n");
+        }
     }
 
     inteiro x vira 5;
