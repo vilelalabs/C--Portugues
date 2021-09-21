@@ -1,9 +1,8 @@
 # C++Portugues
 
-Apenas uma brincadeira com as palavras chaves e alguns símbolos e funções do **C++ **
+Apenas uma brincadeira com as palavras chaves e alguns símbolos e funções do **C++**
 
-    exemplo de código 
-
+## Exemplo de código 
 ```C++
 #include "cportugues.h"
 
