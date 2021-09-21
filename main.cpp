@@ -1,6 +1,6 @@
 #include "cportugues.h"
 
-inteiro funcao_principal()
+inteiro funcao_principal() //main
 {
     inteiro semsinal a vira 2;
     pontoflutuante b vira 3.14;
