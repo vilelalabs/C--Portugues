@@ -27,5 +27,19 @@ inteiro funcao_principal() {
 
     retorno 0;
 }
-
 ```
+### Saída
+```
+pi vezes 2 = 3.14
+pi vezes 4 = 6.28
+pi vezes 6 = 9.42
+pi vezes 8 = 12.56
+pi vezes 12 = 18.84
+pi vezes 14 = 21.98
+pi vezes 16 = 25.12
+pi vezes 18 = 28.26
+pi vezes 20 = 31.40
+A-5A-6A-7A-8A-9
+```
+
+
