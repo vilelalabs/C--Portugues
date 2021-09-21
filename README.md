@@ -39,7 +39,7 @@ pi vezes 14 = 21.98
 pi vezes 16 = 25.12
 pi vezes 18 = 28.26
 pi vezes 20 = 31.40
-A-5A-6A-7A-8A-9
+A-5 A-6 A-7 A-8 A-9
 ```
 
 
