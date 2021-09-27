@@ -2,7 +2,7 @@
 
 Apenas uma brincadeira com as palavras chaves e alguns símbolos e funções do **C++**
 
-## Exemplo de código 
+## Exemplo de código (isto roda sem erros (no errs) ou alertas (no warnings) )
 ```C++
 #include "cportugues.h"
 
